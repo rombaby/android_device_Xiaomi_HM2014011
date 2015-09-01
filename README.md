@@ -33,5 +33,3 @@ Services requires root:
 
 =======
 # android_device_Xiaomi_HM2014011
-This is a device tree for Xiaomi Redmi_1s_TD(HM2014011).
->>>>>>> 54b8afcb70f4452f2a71db10a6a79f656ac6141f
