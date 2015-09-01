@@ -6,7 +6,7 @@ This is a device tree for Xiaomi Redmi_1s_TD(HM2014011). Powered by ferhung.
 * init
   Grab the CyanogenMOD source:
 
-        # repo init -u git://github.com/fire855/android.git -b cm-12.1
+        # repo init -u git://github.com/ferhung/android.git -b cm-12.1
         
         # repo sync
 
@@ -29,6 +29,3 @@ Services requires root:
 # In China we can't get 204 from Google server
   * Android 5.1 source change to skip network validation in some environment like China can't connect to http://clients3.google.com/generate_204.
         # To see: https://github.com/ferhung/Skip_network_validation
-
-=======
-# android_device_Xiaomi_HM2014011
