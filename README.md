@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ----Thanks for fire855 & superdragonpt, who are contributing to the working CyanogenMod of MTK hardware(MT6582&MT6592).---
 
 This is a device tree for Xiaomi Redmi_1s_TD(HM2014011). Powered by ferhung.
@@ -30,3 +31,7 @@ Services requires root:
   * Android 5.1 source change to skip network validation in some environment like China can't connect to http://clients3.google.com/generate_204.
         # To see: https://github.com/ferhung/Skip_network_validation
 
+=======
+# android_device_Xiaomi_HM2014011
+This is a device tree for Xiaomi Redmi_1s_TD(HM2014011).
+>>>>>>> 54b8afcb70f4452f2a71db10a6a79f656ac6141f
