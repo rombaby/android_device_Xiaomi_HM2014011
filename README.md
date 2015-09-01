@@ -27,6 +27,6 @@ Services requires root:
   * mediaserver depends on /data/nvram folder access, unable to do voice calls from 'media' user (default user 'media')
 
 # In China, we must skip to get 204 from Google server.
-  * Android 5.1 source change to skip network validation in some environment like China can't connect to http://clients3.google.com/generate_204.
+  * Change of Android 5.1 source to skip network validation in some environment like China can't connect to http://clients3.google.com/generate_204. 
 
         # To see: https://github.com/ferhung/Skip_network_validation
