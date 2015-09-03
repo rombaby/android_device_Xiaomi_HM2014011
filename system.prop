@@ -79,3 +79,5 @@ ro.boot.selinux=disable
 debug.hwui.render_dirty_regions=false
 
 persist.sys.timezone=Asia/Shanghai
+persist.sys.strictmode.visual=0
+persist.sys.strictmode.disable=1
